@@ -1,39 +1,39 @@
-## Hi there 👋
+### Hey there 👋
 
-I'm **Eslam Ayman**, a passionate **Backend Developer** specializing in building robust, scalable applications with **Java**.
+I'm **Eslam Ayman**, a Backend Developer based in Egypt 🇪🇬 building with **Node.js & TypeScript**.
 
-### 🚀 About Me
-
-As a backend engineer, I transform complex business requirements into elegant, efficient solutions. My journey in software development has taught me that great backend architecture is invisible—it just works. I'm dedicated to writing clean, maintainable code that powers reliable systems.
-
-With a strong foundation in Java, I build microservices, RESTful APIs, and enterprise applications that handle real-world challenges. I believe in writing code today that future developers (including myself!) will thank me for tomorrow.
-
-### 💼 What I Do
-
-- **Backend Development**: Crafting scalable REST APIs and microservices using Java
-- **Database Design**: Designing efficient data models and optimizing queries
-- **System Architecture**: Building resilient, maintainable systems
-- **Problem Solving**: Turning requirements into robust solutions
-
-### 🛠️ Tech Stack
-
-- **Languages**: Java, SQL
-- **Frameworks & Tools**: Spring Boot, Spring Framework, Hibernate
-- **Databases**: MySQL, PostgreSQL
-- **Other**: Docker, Maven, Git
-
-### 🌱 Currently Learning
-
-I'm constantly evolving my skills and exploring new technologies in the backend ecosystem.
-
-### 👯 Let's Collaborate
-
-I'm open to collaborating on interesting backend projects and love discussing software architecture, best practices, and innovative solutions.
-
-### 📫 Get In Touch
-
-Feel free to reach out if you want to discuss projects, opportunities, or just talk about Java development!
+I learn by shipping. Every topic I study ends up as working code in a repository, with a README that explains what it does and how to run it — because half of backend work is making the next person's life easier.
 
 ---
 
-*"Code is poetry written for humans, logic for machines."*
+### 🛠️ Tools & Tech
+- **Core stack:** JavaScript, TypeScript, Node.js, Express, REST APIs, SQL
+- **Workflow & tooling:** Git & GitHub, npm, JetBrains IDEs, Linux, self-hosted services
+- **Also worked with:** Java (OOP coursework), Next.js & React (interface work)
+- **Currently exploring:** the Node.js runtime — core modules, event loop, building HTTP servers, connecting to databases, testing and deployment
+
+---
+
+### 📌 Current Focus & Projects
+- 🔭 Working through my **[Node.js learning roadmap](https://github.com/EslamAyman-wab/Node.js-Learning)** — from core modules to a tested, deployed API
+- 🌐 Building my portfolio at **[gvara.site](https://gvara.site)** — [source code](https://github.com/EslamAyman-wab/my-website)
+- 📚 Sharpening fundamentals daily in **[TypeScript](https://github.com/EslamAyman-wab/TS_Learning)**, **[JavaScript](https://github.com/EslamAyman-wab/JS_Learning)** and **[Edabit challenges](https://github.com/EslamAyman-wab/Edabit)**
+- 💬 Ask me about Node.js fundamentals, Express routing, and learning in public
+
+---
+
+### ☕ A Bit About Me
+- 🖥️ I run a small home lab on a repurposed PC — that's where Linux, servers and networking stopped being theory for me
+- 🐧 Started on a 4-year-old machine, learning OS installs, hardware swaps and troubleshooting the hard way
+- 📝 I write documentation for everything I build, including the parts I got wrong
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamayman-web)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white)](https://gvara.site)
+
+---
+
+<sub>💼 Open to junior backend roles (Node.js / TypeScript) — feel free to reach out on LinkedIn.</sub>
