@@ -31,7 +31,7 @@ I learn by shipping. Every topic I study ends up as working code in a repository
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamayman-web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eslam_Ayman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamayman-web)
 
 ---
 
